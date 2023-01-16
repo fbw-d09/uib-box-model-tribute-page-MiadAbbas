@@ -1,0 +1,70 @@
+html {
+    background-color: rgb(251, 244, 235);
+}
+header {
+    width: 600px ;
+    text-align: center;
+    margin: 0 auto;
+}
+header h2 {
+    background-color: rgb(211, 185, 185);
+    padding: 8px;
+    border-radius: 4px;
+}
+main {
+    background-color: rgb(211, 185, 185) ;
+    padding-top: 20px;
+    width: 90%;
+    margin-left: 70px;
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+ .bild1 {
+    
+    width: 60%;
+    padding-left: 250px;
+    height: 650px;
+   
+}
+h3 {
+    text-align: center;
+    font-size: 2rem;
+    color: rgb(205, 91, 20);
+}
+ul li {
+    margin-left: 220px;
+    font-size: 1.3rem;
+}
+.link1 {
+    text-decoration: none;
+    color: rgb(176, 129, 68);
+}
+
+a:visited {
+    color: rgb(50, 113, 134);
+
+}
+a:hover {
+    color: rgb(67, 179, 151);
+}
+aside {
+    margin-left: 70px;
+    background-color:  rgb(221, 202, 202);
+    margin-right: 70px;
+    border-radius: 5px;
+}
+a {
+    text-decoration: none;
+
+}
+footer {
+    height: 70px;
+    width: 90%;
+    text-align: center;
+    margin-top: 40px;
+    background-color:  rgb(221, 202, 202);
+    margin-left: 70px;
+    padding-top: 30px;
+    border-radius: 5px;
+
+}
